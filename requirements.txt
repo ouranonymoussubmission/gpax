@@ -1,0 +1,4 @@
+jax
+jaxlib
+tensorflow_probability
+jax-tqdm

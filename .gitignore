@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+*.vscode
+*.ipynb_checkpoints
+*.pyc
+*.egg-info/
+__pycache__
+build
+gpax/_version.py
+*.code-workspace
+docs/_build/
+
+# "Will Delete This" files
+*wdt.py
+*wdt.ipynb
